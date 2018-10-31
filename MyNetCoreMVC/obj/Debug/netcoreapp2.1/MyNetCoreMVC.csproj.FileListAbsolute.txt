@@ -1,0 +1,69 @@
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.deps.json
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.runtimeconfig.json
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.dll
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.AssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.TagHelpers.input.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.TagHelpers.output.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorCoreGenerate.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.pdb
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.Views.dll
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.Views.pdb
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.Views.pdb
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.dll
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.pdb
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csproj.CopyComplete
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Product\GetList.g.cshtml.cs
+C:\Users\Hp\Desktop\New folder\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.deps.json
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.runtimeconfig.json
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.dll
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.pdb
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.Views.dll
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\bin\Debug\netcoreapp2.1\MyNetCoreMVC.Views.pdb
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.AssemblyInfo.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.TagHelpers.input.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.TagHelpers.output.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorCoreGenerate.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.Views.pdb
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.dll
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.pdb
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\MyNetCoreMVC.csproj.CopyComplete
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\Hp\Desktop\T1708M1_Net\MyNetCoreMVC\MyNetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Product\Edit.g.cshtml.cs

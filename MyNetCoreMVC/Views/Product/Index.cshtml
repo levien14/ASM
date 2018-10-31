@@ -1,0 +1,18 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="alert-danger"></div>
+<div class="alert-success"></div>
+<div class="alert-success">@TempData["Create"]</div>
+<h2>List</h2>
+<a href="/Product/Create">Create</a>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li> @product.name - @product.price | <a href="/Product/Edit?id=@product.id">Edit</a> | <a href="#" id="@product.id" class="btnDelete">Delete</a></li>
+    }
+</ul>
+

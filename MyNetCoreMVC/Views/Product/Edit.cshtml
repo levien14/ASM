@@ -1,0 +1,17 @@
+﻿@model MyNetCoreMVC.Models.Product
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+<a href="Index">Index</a>
+<div margin="50px">
+    <form action="Update" method="post">
+        <div><input name="id" type="hidden" value="@Model.id"/></div>
+        <div>Name <input name="name" type="Text" value="@Model.name"/></div>
+        <div> Price<input name="price" type="text" value="@Model.price"/></div>
+        <div><input type="submit" value="Update"/></div>
+    </form>
+</div>
+
